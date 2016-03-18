@@ -1,0 +1,56 @@
+a {
+  color: black; }
+
+.bg-header {
+  background-image: url(../images/1920x665-1.jpg);
+  background-size: cover;
+  height: 480px;
+  margin-top: 40px;
+  background-blend-mode: color;
+  background-color: rgba(0, 0, 0, 0.4); }
+
+.mosapp {
+  color: white;
+  padding-top: 50px; }
+
+.mosapp h1 {
+  font-size: 56px;
+  font-weight: 300;
+  color: white;
+  margin: 30px 0 30px 0; }
+
+.btn-info {
+  padding: 10px;
+  border-radius: 20px; }
+
+.social-media li {
+  display: inline-block; }
+
+.social li {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  color: #3eb0f7;
+  border-radius: 20px;
+  border: solid 1px #3eb0f7; }
+
+.trans {
+  background-color: rgba(255, 255, 255, 0.63); }
+
+.social-media {
+  text-align: center; }
+
+.mosapp span p {
+  width: 400px; }
+
+.center {
+  text-align: center; }
+
+.margin-left {
+  margin-left: 10px; }
+
+.mossap i {
+  padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
